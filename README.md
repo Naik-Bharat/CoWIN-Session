@@ -22,7 +22,7 @@ Install requirements
 pip3 install -r requirements.txt
 ```
 
-Make an information.json with this format and fill in your info
+Update information.json with your info
 
 ```json
 {
